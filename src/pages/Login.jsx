@@ -15,18 +15,20 @@ const Login   = () => {
     const password = e.target[1].value;
 
     try{
+      console.log("Logging in with email:", email);
       await signInWithEmailAndPassword(auth, email, password);
       navigate("/home");
     }
     catch (err) {
+      console.error("Login error:", err.message);
       console.log(err.message);
       setErr(true);
     }
   };
 
   return (
-    <div class="FormContainer">
-        <div class="FormWrapper">
+    <div className="FormContainer">
+        <div className="FormWrapper">
             <span className="logo">Zen Chat</span>
             <span className="title">Login</span>
             <form onSubmit={handleSubmit}> 

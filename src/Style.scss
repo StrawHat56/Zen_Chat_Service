@@ -107,6 +107,9 @@
         overflow: hidden;
         border: none;
         box-shadow: 0 0 20px rgba(0,0,0,0.5);
+        @include tablet {
+            width: 90%;
+           }
 
         .sidebar{
             flex: 1;
@@ -123,6 +126,9 @@
                 .logo{
                     font-weight: bold;
                     font-size: 20px;
+                    @include tablet {
+                        display: none;
+                      }
                 }
 
                 .user{
