@@ -5,11 +5,11 @@
 This repo contains the source code and setup instructions for the same.
 
 ## Table Of Contents
-* [Setting Up](#building-from-source)
+* [Setting Up](#setting-up)
 * [System Design](#system-design)
-   * [Pages and Components](#pages-components)
+   * [Pages and Components](#pages-and-components)
    * [Context](#context)
-* [Limitations and Future Improvements](#limitations)
+* [Limitations and Future Improvements](#limitations-and-future-improvements)
 
 ## Setting Up
 1. Clone the Zen Chat in your preferred directory as:
