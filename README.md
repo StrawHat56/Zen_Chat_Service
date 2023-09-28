@@ -2,7 +2,9 @@
 
 `ZenChat` is a ReactJs based web chat application made for one and all to express their thoughts and worries to their close ones or newly made friends!!!
 
-This repo contains the source code and setup instructions for the same.
+Name: Avaneesh Radhakrishnan Naik
+University: IIT Hyderabad
+Department: Engineering Science and Computer Science
 
 ## Table Of Contents
 * [Setting Up](#setting-up)
