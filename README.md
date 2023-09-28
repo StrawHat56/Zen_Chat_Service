@@ -4,11 +4,11 @@
 
 ## About Me
 
-Name: Avaneesh Radhakrishnan Naik
+**Name**: Avaneesh Radhakrishnan Naik
 
-University: IIT Hyderabad
+**University**: IIT Hyderabad
 
-Department: Engineering Science and Computer Science
+**Department**: Engineering Science and Computer Science
 
 ## Table Of Contents
 * [Setting Up](#setting-up)
